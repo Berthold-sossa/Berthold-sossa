@@ -34,7 +34,7 @@ The user can thus filter by category or search for a particular institution in o
 ## 2. WeScoop: Mobile app (Android and iOS)
 
 Communicate with your friends securely with our encrypted messaging, share all your moments and keep up to date with what's happening in the world through WeScoop stories. You can share everything from everyday moments to the most important events in your life. Talk about the topics you love and be yourself.
-![WeScoop](assets/Screenshot 2023-09-11 at 14.37.09.png)
+![WeScoop](https://github.com/Berthold-sossa/Berthold-sossa/blob/main/assets/Screenshot%202023-09-11%20at%2014.37.09.png)
 
 
 
