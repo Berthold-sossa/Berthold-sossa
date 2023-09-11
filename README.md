@@ -29,12 +29,12 @@ I am a passionate Biomedical engineering and mobile app developer with a knack f
 
 ADDB is an application that allows anyone living or wishing to go to Benin to be able to geo-locate all institutions of Benin (Police, Hotel, Restaurant, Public places) in one click.
 The user can thus filter by category or search for a particular institution in order to get there using the itinerary provided.
-![ADDB](https://play-lh.googleusercontent.com/o2wL-A6Uo2Ze0dKrglgjFsn2tQpZR0StccPwDwfLcPoKHgOg1d66YO7PGqNVgKA3eww=w1052-h592-rw)
+![ADDB](assets/Screenshot 2023-09-11 at 14.33.18.png)
 
 ## 2. WeScoop: Mobile app (Android and iOS)
 
 Communicate with your friends securely with our encrypted messaging, share all your moments and keep up to date with what's happening in the world through WeScoop stories. You can share everything from everyday moments to the most important events in your life. Talk about the topics you love and be yourself.
-![WeScoop](https://play-lh.googleusercontent.com/z6NyMsH1kgAy5BhlAXGNsS1cm5Oe3iHgVAffMosQN6tk_JLFapJOSZ7r0G7V-zSLAUo=w1052-h592-rw)
+![WeScoop](assets/Screenshot 2023-09-11 at 14.37.09.png)
 
 
 
